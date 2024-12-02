@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "role": "editor"
+    },
+    {
+      "id": "3",
+      "name": "Mike Brown",
+      "email": "mike.brown@example.com",
+      "age": 28,
+      "role": "viewer"
+    },
+    {
+      "id": "6fc0",
+      "name": "Retesh",
+      "email": "retesh@gmail.com",
+      "age": "24",
+      "role": "Admin"
+    },
+    {
+      "id": "db15",
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "age": "39",
+      "role": "User"
+    }
+  ]
+}
